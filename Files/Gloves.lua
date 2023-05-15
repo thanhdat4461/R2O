@@ -22,6 +22,7 @@
     ["Glitch"] = game.ReplicatedStorage.GeneralHit,
     ["Snowball"] = game.ReplicatedStorage.GeneralHit,
     ["🗿"] = game.ReplicatedStorage.GeneralHit,
+    ["fish"] = game.ReplicatedStorage.GeneralHit,
     ["Obby"] = game.ReplicatedStorage.GeneralHit,
     ["Voodoo"] = game.ReplicatedStorage.GeneralHit,
     ["Leash"] = game.ReplicatedStorage.GeneralHit,
@@ -32,6 +33,11 @@
     ["Chain"] = game.ReplicatedStorage.GeneralHit,
     ["Ping Pong"] = game.ReplicatedStorage.GeneralHit,
     ["Whirlwind"] = game.ReplicatedStorage.GeneralHit,
+    ["Recall"] = game.ReplicatedStorage.GeneralHit,
+    ["Quake"] = game.ReplicatedStorage.GeneralHit,
+    ["Home Run"] = game.ReplicatedStorage.GeneralHit,
+    ["Psycho"] = game.ReplicatedStorage.GeneralHit,
+    ["Kraken"] = game.ReplicatedStorage.GeneralHit,
     
     ----------------------------------------
     
@@ -61,6 +67,7 @@
     ["Golden"] = game.ReplicatedStorage.GoldenHit,
     ["Cheeky"] = game.ReplicatedStorage.CheekyHit,
     ["Reaper"] = game.ReplicatedStorage.ReaperHit,
+    ["Replica"] = game.ReplicatedStorage.ReplicaHit,
     ["Defense"] = game.ReplicatedStorage.DefenseHit,
     ["Killstreak"] = game.ReplicatedStorage.KSHit,
     ["Reverse"] = game.ReplicatedStorage.ReverseHit,
