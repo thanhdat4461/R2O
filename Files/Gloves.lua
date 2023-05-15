@@ -35,6 +35,7 @@
     
     ----------------------------------------
     
+    ["spin"] = game.ReplicatedStorage.spinhit,
     ["Diamond"] = game.ReplicatedStorage.DiamondHit,
     ["ZZZZZZZ"] = game.ReplicatedStorage.ZZZZZZZHit,
     ["Brick"] = game.ReplicatedStorage.BrickHit,
@@ -108,7 +109,6 @@
 
     ["Sparky"] = game.ReplicatedStorage.HtStun,
     ["Boogie"] = game.ReplicatedStorage.HtStun,
-    ["Stun"] = game.ReplicatedStorage.HtStun,
     ["Coil"] = game.ReplicatedStorage.HtStun,
 
     ----------------------------------------
