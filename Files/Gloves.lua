@@ -33,7 +33,6 @@
     ["Chain"] = game.ReplicatedStorage.GeneralHit,
     ["Ping Pong"] = game.ReplicatedStorage.GeneralHit,
     ["Whirlwind"] = game.ReplicatedStorage.GeneralHit,
-    ["Recall"] = game.ReplicatedStorage.GeneralHit,
     ["Quake"] = game.ReplicatedStorage.GeneralHit,
     ["Home Run"] = game.ReplicatedStorage.GeneralHit,
     ["Psycho"] = game.ReplicatedStorage.GeneralHit,
